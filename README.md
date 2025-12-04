@@ -31,8 +31,3 @@ The models were evaluated using Accuracy, Precision, Recall, and Confusion Matri
     * `scikit-learn` (Modeling & Preprocessing)
     * `pandas` & `numpy` (Data Manipulation)
     * `matplotlib` & `seaborn` (Visualization)
-
-## ⚙️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone [YOUR_REPOSITORY_LINK]
